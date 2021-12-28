@@ -1,6 +1,6 @@
 ### Hi, I'm Beverley!
 
-✈️ I'm currently a project officer at NTU and finishing up my Master of Engineering in the School of Mechanicaly & Aerospace Engineering. 
+✈️ I'm currently a project officer at NTU and finishing up my Master of Engineering in the School of Mechanical & Aerospace Engineering. 
 
 🔭 My day job mostly involves working with CFD codes and running CFD simulations.
 
