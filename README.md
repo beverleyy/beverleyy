@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Beverley!
+
+✈️ I'm currently a project officer at NTU and finishing up my Master of Engineering in the School of Mechanicaly & Aerospace Engineering. 
+
+🔭 My day job mostly involves working with CFD codes and running CFD simulations.
+
+🖥️ Outside of that, I also enjoy web design and development.
+
+🚀 Check out my [portfolio](https://beverleyy.github.io) and feel free to connect with me on Linkedin :)
 
 <!--
 **beverleyy/beverleyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
